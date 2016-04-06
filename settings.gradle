@@ -1,0 +1,3 @@
+rootProject.name = 'ametiste-protobuf'
+
+include 'protobuf-caffe'
